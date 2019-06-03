@@ -1,0 +1,22 @@
+{
+  "name": "circleci-techchallenge",
+  "version": "1.0.0",
+  "description": "CircleCI Technical Challenge",
+  "main": "js/index.js",
+  "jest": {
+    "verbose": true,
+    "testURL": "http://localhost/"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Lloyd Napier",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "jest": "^24.8.0",
+    "jquery": "^3.4.1",
+    "node": "^12.3.1"
+  }
+}
