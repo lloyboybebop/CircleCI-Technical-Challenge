@@ -1,5 +1,4 @@
 # CircleCI-Technical-Challenge
---------------
 Build and Test
 --------------
 
@@ -20,16 +19,15 @@ The aim of this task is for you to use CircleCI to build and test a simple appli
 * Get a green build on CircleCI that shows your test passing. Include a URL for this build in your response.
     - https://circleci.com/gh/lloyboybebop/CircleCI-Technical-Challenge/4
 
------------------
 Deploy (optional)
 -----------------
 
 The aim of this task is to deploy your application using CircleCI.
 
-If you were able to get the test to pass on CircleCI 2.0, deploy this application to any provider of your choosing (i.e. Heroku, AWS, Digital Ocean, Our docs contain instructions in the project tutorial on how to deploy to Heroku for free.)
+* If you were able to get the test to pass on CircleCI 2.0, deploy this application to any provider of your choosing (i.e. Heroku, AWS, Digital Ocean, Our docs contain instructions in the project tutorial on how to deploy to Heroku for free.)
     - Deployed to Heroku
-        config.yml
-        environmental variables
+        - config.yml
+        - environmental variables
 
-Include a URL for a deployment from CircleCI in your response, along with specifying what language you completed it in.
+* Include a URL for a deployment from CircleCI in your response, along with specifying what language you completed it in.
     - https://circleci-technical-challenge.herokuapp.com/
